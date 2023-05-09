@@ -1,6 +1,8 @@
 # Telangana_Tourism_Analysis
 Codebasics Resume Project Challenge #5 on Telangana Tourism Analysis
 
+(Video: https://www.linkedin.com/posts/kunica-gupta-dataanalyst_codebasics-dataanalyst-challenge-activity-7061546456473624576-Vns3?utm_source=share&utm_medium=member_desktop)
+
 ![image](https://user-images.githubusercontent.com/123622774/236909676-a84583dc-83ec-4980-b594-bda7851bcecd.png)
 ![image](https://user-images.githubusercontent.com/123622774/236910135-fb37ecca-941f-4366-a296-5aaf78582310.png)
 ![image](https://user-images.githubusercontent.com/123622774/236910607-7e63e55d-f742-40c7-9708-49d1857f6aea.png)
